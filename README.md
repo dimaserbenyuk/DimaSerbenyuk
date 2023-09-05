@@ -1,4 +1,4 @@
-<img src="./IMG_5305.JPG" alt="name banner" />
+<img src="./linkedin.png" alt="name banner" />
 
 ### About Me
 
@@ -43,15 +43,15 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyc86&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Jeffrey's Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaserbenyuk&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Dmytro's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/jeffreyc86">
+          <a href="https://github.com/dimaserbenyuk">
             <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&hide=stars&hide_border=true" alt="" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=dimaserbenyuk&show_icons=true&hide=stars&hide_border=true" alt="" vertical-align="middle"/>
           </a>
         </div>
         </td>
@@ -64,6 +64,6 @@
 
 <div align='center'>
 
-![](https://komarev.com/ghpvc/?username=&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=dimaserbenyuk&label=Profile+Views)
 
 </div>
