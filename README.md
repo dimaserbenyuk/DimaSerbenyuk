@@ -17,6 +17,9 @@
 
 ### Languages, Tools, and Skills 🛠
 <div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+          
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> 
 <img src="https://img.shields.io/badge/aws-F05032?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
 <img src="https://img.shields.io/badge/azure-232F3E?style=for-the-badge&logo=azure&logoColor=white" alt="azure" />
