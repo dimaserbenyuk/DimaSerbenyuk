@@ -17,6 +17,8 @@
 
 ### Languages, Tools, and Skills 🛠
 <div align="center">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />  
+<img src="https://img.shields.io/badge/kubernetes-3776AB?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
