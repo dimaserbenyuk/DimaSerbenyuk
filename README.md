@@ -15,10 +15,13 @@
 </a>
 </div>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+
 ### Languages, Tools, and Skills 🛠
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
           
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> 
 <img src="https://img.shields.io/badge/aws-F05032?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
