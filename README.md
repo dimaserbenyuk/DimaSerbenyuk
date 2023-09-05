@@ -7,13 +7,10 @@
 <a href="https:///">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/dmytro-serbeniuk/">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https:///">
-<img src="https://img.shields.io/badge/read%20my%20blogs%20on%20medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
-</a>
-<a href="mailto:">
+<a href="mailto:dserbenyukgood@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
@@ -50,7 +47,6 @@
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/dimaserbenyuk">
-            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
             <img src="https://github-readme-stats.vercel.app/api?username=dimaserbenyuk&show_icons=true&hide=stars&hide_border=true" alt="" vertical-align="middle"/>
           </a>
         </div>
