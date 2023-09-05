@@ -17,9 +17,14 @@
 
 ### Languages, Tools, and Skills 🛠
 <div align="center">
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />  
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" /> 
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
+<img src="https://img.shields.io/badge/azure-232F3E?style=for-the-badge&logo=azure&logoColor=white" alt="azure" />
 <img src="https://img.shields.io/badge/kubernetes-3776AB?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+<img src="https://img.shields.io/badge/terraform-3776AB?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" />
+<img src="https://img.shields.io/badge/githubactions-3776AB?style=for-the-badge&logo=githubactions&logoColor=white" alt="githubactions" />
+<img src="https://img.shields.io/badge/docker-3776AB?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+<img src="https://img.shields.io/badge/gitlab-3776AB?style=for-the-badge&logo=gitlab&logoColor=white" alt="gitlab" />
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" />
 <img src="https://img.shields.io/badge/SQL-407AFC?style=for-the-badge&logo=icloud&logoColor=white" alt="sql" />
 <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="mariadb" />
@@ -29,7 +34,6 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
 <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="jira" />
 <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence" />
 </div>
