@@ -15,7 +15,7 @@
 </a>
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="200" height="400" />
 
 
 ### Languages, Tools, and Skills 🛠
